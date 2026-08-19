@@ -1,7 +1,7 @@
-# Track1_Day18_2A202601791_NguyenTheAnh
+# Track1_Day18_2A202601283_CaoHuuPhuc
 I. THÔNG TIN CÁ NHÂN VÀ NHÓM
-MHV: 2A202601791
-Họ và tên: Nguyễn Thế Anh
+MHV: 2A202601283
+Họ và tên: Cao Hữu Phúc
 Nhóm: 3H
 Case đã chọn: Case B — AI Notes: Personal Learning Notes
 Thành viên nhóm
